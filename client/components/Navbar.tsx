@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { NAV_LINKS } from "@/app/constants"
+import { NAV_LINKS } from "@/constants"
 
 const Navbar = () => {
     return (

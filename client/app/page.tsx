@@ -1,6 +1,6 @@
 import Image from "next/image";
-import { IMAGE_URL } from "./constants";
-import Footer from "./components/Footer";
+import { IMAGE_URL } from "../constants";
+import Footer from "../components/Footer";
 
 export default function Home() {
   return (
