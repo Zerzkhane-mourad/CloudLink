@@ -28,7 +28,7 @@
   }
 
   .nav{
-    @apply flex justify-end items-center
+    @apply text-xl flex justify-end items-center
   }
 
   .flexCenter {

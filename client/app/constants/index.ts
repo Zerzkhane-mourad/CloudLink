@@ -1,7 +1,7 @@
 export const NAV_LINKS = [
     
     { href: '/', key: 'home', label: 'Home' },
-    { href: '/', key: 'contact_us', label: 'Contact Us' },
+    { href: '/cantact_us', key: 'contact_us', label: 'Cantact Us' },
     { href: '/about_us', key: 'about_us', label: 'About Us' },
 
 ];
